@@ -1,0 +1,481 @@
+{
+  "AC": {
+    "cidades": [
+      { "nome": "Rio Branco", "ddd": "68" },
+      { "nome": "Cruzeiro do Sul", "ddd": "68" },
+      { "nome": "Sena Madureira", "ddd": "68" },
+      { "nome": "Taraucá", "ddd": "68" },
+      { "nome": "Feijó", "ddd": "68" }
+    ]
+  },
+
+  "AL": {
+    "cidades": [
+      { "nome": "Atalaia", "ddd": "82" },
+      { "nome": "Barra de Santo Antônio", "ddd": "82" },
+      { "nome": "Barra de São Miguel", "ddd": "82" },
+      { "nome": "Coqueiro Seco", "ddd": "82" },
+      { "nome": "Maceió", "ddd": "82" },
+      { "nome": "Marechal Deodoro", "ddd": "82" },
+      { "nome": "Messias", "ddd": "82" },
+      { "nome": "Murici", "ddd": "82" },
+      { "nome": "Paripueira", "ddd": "82" },
+      { "nome": "Pilar", "ddd": "82" },
+      { "nome": "Rio Largo", "ddd": "82" },
+      { "nome": "Santa Luzia do Norte", "ddd": "82" },
+      { "nome": "Satuba", "ddd": "82" }
+    ]
+  },
+  "AM": {
+    "cidades": [
+      { "nome": "Autazes", "ddd": "92" },
+      { "nome": "Careiro", "ddd": "92" },
+      { "nome": "Careiro da Várzea", "ddd": "92" },
+      { "nome": "Iranduba", "ddd": "92" },
+      { "nome": "Itacoatiara", "ddd": "92" },
+      { "nome": "Itapiranga", "ddd": "92" },
+      { "nome": "Manacapuru", "ddd": "92" },
+      { "nome": "Manaquiri", "ddd": "92" },
+      { "nome": "Manaus", "ddd": "92" },
+      { "nome": "Novo Airao", "ddd": "92" },
+      { "nome": "Presidente Figueiredo", "ddd": "92" },
+      { "nome": "Rio Preto da Eva", "ddd": "92" },
+      { "nome": "Silves", "ddd": "92" }
+    ]
+  },
+  "AP": {
+    "cidades": [
+      { "nome": "Autazes", "ddd": "92" },
+      { "nome": "Careiro", "ddd": "92" },
+      { "nome": "Careiro da Várzea", "ddd": "92" },
+      { "nome": "Iranduba", "ddd": "92" },
+      { "nome": "Itacoatiara", "ddd": "92" },
+      { "nome": "Itapiranga", "ddd": "92" },
+      { "nome": "Manacapuru", "ddd": "92" },
+      { "nome": "Manaquiri", "ddd": "92" },
+      { "nome": "Manaus", "ddd": "92" },
+      { "nome": "Novo Airao", "ddd": "92" },
+      { "nome": "Presidente Figueiredo", "ddd": "92" },
+      { "nome": "Rio Preto da Eva", "ddd": "92" },
+      { "nome": "Silves", "ddd": "92" }
+    ]
+  },
+  "BA": {
+    "cidades": [
+      { "nome": "Abrantes", "ddd": "71" },
+      { "nome": "Arembepe", "ddd": "71" },
+      { "nome": "Barra do Jacuipe", "ddd": "71" },
+      { "nome": "Busca Vida", "ddd": "71" },
+      { "nome": "Camaçari", "ddd": "71" },
+      { "nome": "Candeias", "ddd": "71" },
+      { "nome": "Dias d'Ávila", "ddd": "71" },
+      { "nome": "Itaparica", "ddd": "71" },
+      { "nome": "Lauro de Freitas", "ddd": "71" },
+      { "nome": "Madre de Deus", "ddd": "71" },
+      { "nome": "Mata de São João", "ddd": "71" },
+      { "nome": "Pojuca", "ddd": "71" },
+      { "nome": "Salvador", "ddd": "71" },
+      { "nome": "São Francisco do Conde", "ddd": "71" },
+      { "nome": "Simões Filho", "ddd": "71" },
+      { "nome": "Vera Cruz", "ddd": "71" },
+      { "nome": "Arraial da Ajuda", "ddd": "73" },
+      { "nome": "Ilheus", "ddd": "73" },
+      { "nome": "Itabuna", "ddd": "73" },
+      { "nome": "Itaporanga", "ddd": "73" },
+      { "nome": "Porto Seguro", "ddd": "73" },
+      { "nome": "Amélia Rodrigues", "ddd": "75" },
+      { "nome": "Bessa", "ddd": "75" },
+      { "nome": "Conceição da Feira", "ddd": "75" },
+      { "nome": "Conceição do Jacuipe", "ddd": "75" },
+      { "nome": "Feira de Santana", "ddd": "75" },
+      { "nome": "São Gonçalo dos Campos", "ddd": "75" },
+      { "nome": "Tanquinho", "ddd": "75" }
+    ]
+  },
+  "CE": {
+    "cidades": [
+      { "nome": "Aquiraz", "ddd": "85" },
+      { "nome": "Cascavel", "ddd": "85" },
+      { "nome": "Caucaia", "ddd": "85" },
+      { "nome": "Chorozinho", "ddd": "85" },
+      { "nome": "Eusébio", "ddd": "85" },
+      { "nome": "Fortaleza", "ddd": "85" },
+      { "nome": "Guaiúba", "ddd": "85" },
+      { "nome": "Horizonte", "ddd": "85" },
+      { "nome": "Itaitinga", "ddd": "85" },
+      { "nome": "Maracanaú", "ddd": "85" },
+      { "nome": "Pacajus", "ddd": "85" },
+      { "nome": "Pacatuba", "ddd": "85" },
+      { "nome": "Pindoretama", "ddd": "85" },
+      { "nome": "São Gonçalo do Amarante", "ddd": "85" }
+    ]
+  },
+  "DF": {
+    "cidades": [
+      { "nome": "Águas Lindas de Goiás", "ddd": "61" },
+      { "nome": "Brasília", "ddd": "61" },
+      { "nome": "Cabeceiras", "ddd": "61" },
+      { "nome": "Cidade Ocidental", "ddd": "61" },
+      { "nome": "Cristalina", "ddd": "61" },
+      { "nome": "Formosa", "ddd": "61" },
+      { "nome": "Gama", "ddd": "61" },
+      { "nome": "Luziânia", "ddd": "61" },
+      { "nome": "Novo Gama", "ddd": "61" },
+      { "nome": "Padre Bernardo", "ddd": "61" },
+      { "nome": "Planaltina", "ddd": "61" },
+      { "nome": "Santo Antônio do Descoberto", "ddd": "61" },
+      { "nome": "Taguatinga", "ddd": "61" },
+      { "nome": "Valparaíso de Goiás", "ddd": "61" },
+      { "nome": "Vila Boa", "ddd": "61" }
+    ]
+  },
+  "ES": {
+    "cidades": [
+      { "nome": "Aracruz", "ddd": "27" },
+      { "nome": "Carapina", "ddd": "27" },
+      { "nome": "Cariacica", "ddd": "27" },
+      { "nome": "Fundao", "ddd": "27" },
+      { "nome": "Guarapari", "ddd": "27" },
+      { "nome": "Itaquari", "ddd": "27" },
+      { "nome": "Jacaraipe", "ddd": "27" },
+      { "nome": "Jucu", "ddd": "27" },
+      { "nome": "Linhares", "ddd": "27" },
+      { "nome": "Viana", "ddd": "27" },
+      { "nome": "Serra", "ddd": "27" },
+      { "nome": "Vila Velha", "ddd": "27" },
+      { "nome": "Vitória", "ddd": "27" },
+      { "nome": "Vargem Grande do Saturno", "ddd": "28" },
+      { "nome": "Burarama", "ddd": "28" },
+      { "nome": "Cachoeiro de Itapemirim", "ddd": "28" },
+      { "nome": "Gironda", "ddd": "28" }
+    ]
+  },
+  "GO": {
+    "cidades": [
+      { "nome": "Abadia de Goiás", "ddd": "62" },
+      { "nome": "Aparecida de Goiânia", "ddd": "62" },
+      { "nome": "Aragoiania", "ddd": "62" },
+      { "nome": "Bela Vista de Goiás", "ddd": "62" },
+      { "nome": "Bonfinópolis", "ddd": "62" },
+      { "nome": "Brazabrantes", "ddd": "62" },
+      { "nome": "Caldazinha", "ddd": "62" },
+      { "nome": "Caturaí", "ddd": "62" },
+      { "nome": "Goianápolis", "ddd": "62" },
+      { "nome": "Goiânia", "ddd": "62" },
+      { "nome": "Goianira", "ddd": "62" },
+      { "nome": "Guapo", "ddd": "62" },
+      { "nome": "Hidrolândia", "ddd": "62" },
+      { "nome": "Inhumas", "ddd": "62" },
+      { "nome": "Nerópolis", "ddd": "62" },
+      { "nome": "Nova Veneza", "ddd": "62" },
+      { "nome": "Santo Antônio de Goiás", "ddd": "62" },
+      { "nome": "Senador Canedo", "ddd": "62" },
+      { "nome": "Terezópolis de Goiás", "ddd": "62" },
+      { "nome": "Trindade", "ddd": "62" }
+    ]
+  },
+  "MA": {
+    "cidades": [
+      { "nome": "Alcantara", "ddd": "98" },
+      { "nome": "Axixa", "ddd": "98" },
+      { "nome": "Bacabeira", "ddd": "98" },
+      { "nome": "Cachoeira Grande", "ddd": "98" },
+      { "nome": "Icatu", "ddd": "98" },
+      { "nome": "Morros", "ddd": "98" },
+      { "nome": "Paco do Lumiar", "ddd": "98" },
+      { "nome": "Presidente Juscelino", "ddd": "98" },
+      { "nome": "Raposa", "ddd": "98" },
+      { "nome": "Rosário", "ddd": "98" },
+      { "nome": "Santa Inês", "ddd": "98" },
+      { "nome": "Santa Rita", "ddd": "98" },
+      { "nome": "São José de Ribamar", "ddd": "98" },
+      { "nome": "São Luis", "ddd": "98" },
+      { "nome": "Buritirana", "ddd": "99" },
+      { "nome": "Davinópolis", "ddd": "99" },
+      { "nome": "Governador Edison Lobão", "ddd": "99" },
+      { "nome": "Imperatriz", "ddd": "99" },
+      { "nome": "João Lisboa", "ddd": "99" },
+      { "nome": "Montes Altos", "ddd": "99" },
+      { "nome": "Ribamar Fiquene", "ddd": "99" },
+      { "nome": "Senador La Rocque", "ddd": "99" }
+    ]
+  },
+  "MG": {
+    "cidades": [
+      { "nome": "Baldim", "ddd": "31" },
+      { "nome": "Belo Horizonte", "ddd": "31" },
+      { "nome": "Betim", "ddd": "31" },
+      { "nome": "Capim Branco", "ddd": "31" },
+      { "nome": "Confins", "ddd": "31" },
+      { "nome": "Coronel Fabriciano", "ddd": "31" },
+      { "nome": "Esmeraldas", "ddd": "31" },
+      { "nome": "Florestal", "ddd": "31" },
+      { "nome": "Ibirite", "ddd": "31" },
+      { "nome": "Igarape", "ddd": "31" },
+      { "nome": "Ipatinga", "ddd": "31" },
+      { "nome": "Itaguara", "ddd": "31" },
+      { "nome": "Itatiaiucu", "ddd": "31" },
+      { "nome": "Jaboticatubas", "ddd": "31" },
+      { "nome": "João Monlevade", "ddd": "31" },
+      { "nome": "Juatuba", "ddd": "31" },
+      { "nome": "Justinópolis", "ddd": "31" },
+      { "nome": "Lagoa Santa", "ddd": "31" },
+      { "nome": "Mario Campos", "ddd": "31" },
+      { "nome": "Mateus Leme", "ddd": "31" },
+      { "nome": "Matozinhos", "ddd": "31" },
+      { "nome": "Nova Lima", "ddd": "31" },
+      { "nome": "Nova União", "ddd": "31" },
+      { "nome": "Pedro Leopoldo", "ddd": "31" },
+      { "nome": "Raposos", "ddd": "31" },
+      { "nome": "Ribeirão das Neves", "ddd": "31" },
+      { "nome": "Rio Acima", "ddd": "31" },
+      { "nome": "Rio Manso", "ddd": "31" },
+      { "nome": "Sabará", "ddd": "31" },
+      { "nome": "Santa Luzia", "ddd": "31" },
+      { "nome": "Santana do Paraíso", "ddd": "31" },
+      { "nome": "São Joaquim de Bicas", "ddd": "31" }
+    ]
+  },
+  "MS": {
+    "cidades": [{ "nome": "Campo Grande", "ddd": "67" }]
+  },
+  "MT": {
+    "cidades": [
+      { "nome": "Cáceres", "ddd": "65" },
+      { "nome": "Cuiabá", "ddd": "65" },
+      { "nome": "Nossa Senhora do Livramento", "ddd": "65" },
+      { "nome": "Santo Antônio do Leverger", "ddd": "65" },
+      { "nome": "Várzea Grande", "ddd": "65" },
+      { "nome": "Colíder", "ddd": "66" }
+    ]
+  },
+  "PA": {
+    "cidades": [
+      { "nome": "Ananindeua", "ddd": "91" },
+      { "nome": "Belém", "ddd": "91" },
+      { "nome": "Benevides", "ddd": "91" },
+      { "nome": "Castanhal", "ddd": "91" },
+      { "nome": "Marituba", "ddd": "91" },
+      { "nome": "Santa Bárbara do Pará", "ddd": "91" },
+      { "nome": "Santa Isabel do Pará", "ddd": "91" },
+      { "nome": "Altamira", "ddd": "93" },
+      { "nome": "Marabá", "ddd": "94" },
+      { "nome": "Parauapébas", "ddd": "94" }
+    ]
+  },
+  "PB": {
+    "cidades": [
+      { "nome": "Alhandra", "ddd": "83" },
+      { "nome": "Bayeux", "ddd": "83" },
+      { "nome": "Caaporã", "ddd": "83" },
+      { "nome": "Cabedelo", "ddd": "83" },
+      { "nome": "Conde", "ddd": "83" },
+      { "nome": "Cruz do Espirito Santo", "ddd": "83" },
+      { "nome": "João Pessoa", "ddd": "83" },
+      { "nome": "Lucena", "ddd": "83" },
+      { "nome": "Pedras de Fogo", "ddd": "83" },
+      { "nome": "Pitimbu", "ddd": "83" },
+      { "nome": "Rio Tinto", "ddd": "83" },
+      { "nome": "Santa Rita", "ddd": "83" }
+    ]
+  },
+  "PE": {
+    "cidades": [
+      { "nome": "Abreu e Lima", "ddd": "81" },
+      { "nome": "Araçoiaba", "ddd": "81" },
+      { "nome": "Cabo de Santo Agostinho", "ddd": "81" },
+      { "nome": "Camaragibe", "ddd": "81" },
+      { "nome": "Carpina", "ddd": "81" },
+      { "nome": "Igarassu", "ddd": "81" },
+      { "nome": "Ilha de Itamaracá", "ddd": "81" },
+      { "nome": "Ipojuca", "ddd": "81" },
+      { "nome": "Itapissuma", "ddd": "81" },
+      { "nome": "Jaboatão dos Guararapes", "ddd": "81" },
+      { "nome": "Moreno", "ddd": "81" },
+      { "nome": "Olinda", "ddd": "81" },
+      { "nome": "Paulista", "ddd": "81" },
+      { "nome": "Porto de Galinhas", "ddd": "81" },
+      { "nome": "Recife", "ddd": "81" },
+      { "nome": "Santa Cruz do Capibaribe", "ddd": "81" },
+      { "nome": "São Lourenço da Mata", "ddd": "81" }
+    ]
+  },
+  "PI": {
+    "cidades": [
+      { "nome": "Altos", "ddd": "86" },
+      { "nome": "Beneditinos", "ddd": "86" },
+      { "nome": "Coivaras", "ddd": "86" },
+      { "nome": "Curralinhos", "ddd": "86" },
+      { "nome": "Demerval Lobão", "ddd": "86" },
+      { "nome": "José de Freitas", "ddd": "86" },
+      { "nome": "Lagoa Alegre", "ddd": "86" },
+      { "nome": "Lagoa do Piauí", "ddd": "86" },
+      { "nome": "Miguel Leão", "ddd": "86" },
+      { "nome": "Monsenhor Gil", "ddd": "86" },
+      { "nome": "Nazaria", "ddd": "86" },
+      { "nome": "Teresina", "ddd": "86" },
+      { "nome": "União", "ddd": "86" }
+    ]
+  },
+  "PR": {
+    "cidades": [
+      { "nome": "Adrianópolis", "ddd": "41" },
+      { "nome": "Agudos do Sul", "ddd": "41" },
+      { "nome": "Almirante Tamandaré", "ddd": "41" },
+      { "nome": "Araucária", "ddd": "41" },
+      { "nome": "Areia Branca dos Assis", "ddd": "41" },
+      { "nome": "Balsa Nova", "ddd": "41" },
+      { "nome": "Bateias", "ddd": "41" },
+      { "nome": "Bocaiúva do Sul", "ddd": "41" },
+      { "nome": "Bugre", "ddd": "41" },
+      { "nome": "Campina", "ddd": "41" },
+      { "nome": "Campina Grande do Sul", "ddd": "41" },
+      { "nome": "Campo do Tenente", "ddd": "41" },
+      { "nome": "Campo Largo", "ddd": "41" }
+    ]
+  },
+  "RJ": {
+    "cidades": [
+      { "nome": "Belford Roxo", "ddd": "21" },
+      { "nome": "Campos Elyseos", "ddd": "21" },
+      { "nome": "Duque de Caxias", "ddd": "21" },
+      { "nome": "Guapimirim", "ddd": "21" },
+      { "nome": "Inoã", "ddd": "21" },
+      { "nome": "Itaboraí", "ddd": "21" },
+      { "nome": "Itaguaí", "ddd": "21" },
+      { "nome": "Itaipuaçu", "ddd": "21" },
+      { "nome": "Japeri", "ddd": "21" },
+      { "nome": "Magé", "ddd": "21" },
+      { "nome": "Maricá", "ddd": "21" },
+      { "nome": "Mesquita", "ddd": "21" },
+      { "nome": "Rio de Janeiro", "ddd": "21" }
+    ]
+  },
+  "RN": {
+    "cidades": [
+      { "nome": "Ceará-Mirim", "ddd": "84" },
+      { "nome": "Extremoz", "ddd": "84" },
+      { "nome": "Macaíba", "ddd": "84" },
+      { "nome": "Mossoró", "ddd": "84" },
+      { "nome": "Natal", "ddd": "84" },
+      { "nome": "Nísia Floresta", "ddd": "84" },
+      { "nome": "Parnamirim", "ddd": "84" },
+      { "nome": "Pirangi do Norte", "ddd": "84" },
+      { "nome": "São Gonçalo do Amarante", "ddd": "84" },
+      { "nome": "São José de Mipibu", "ddd": "84" },
+      { "nome": "Vera Cruz", "ddd": "84" }
+    ]
+  },
+  "RO": {
+    "cidades": [
+      { "nome": "Porto Velho", "ddd": "69" },
+      { "nome": "Ji-Paraná", "ddd": "69" },
+      { "nome": "Ariquemes", "ddd": "69" },
+      { "nome": "Cacoal", "ddd": "69" },
+      { "nome": "Vilhena", "ddd": "69" },
+      { "nome": "Jaru", "ddd": "69" },
+      { "nome": "Rolim de Moura", "ddd": "69" }
+    ]
+  },
+  "RR": {
+    "cidades": [{ "nome": "Boa Vista", "ddd": "95" }]
+  },
+  "RS": {
+    "cidades": [
+      { "nome": "Aguapés", "ddd": "51" },
+      { "nome": "Alvorada", "ddd": "51" },
+      { "nome": "Araricá", "ddd": "51" },
+      { "nome": "Arroio dos Ratos", "ddd": "51" },
+      { "nome": "Atlântida Sul", "ddd": "51" },
+      { "nome": "Barra do Ribeiro", "ddd": "51" },
+      { "nome": "Bom Retiro do Sul", "ddd": "51" },
+      { "nome": "Cachoeira do Sul", "ddd": "51" },
+      { "nome": "Cachoeirinha", "ddd": "51" },
+      { "nome": "Campo Bom", "ddd": "51" },
+      { "nome": "Canoas", "ddd": "51" },
+      { "nome": "Porto Alegre", "ddd": "51" }
+    ]
+  },
+  "SC": {
+    "cidades": [
+      { "nome": "Agrolândia", "ddd": "47" },
+      { "nome": "Agronômica", "ddd": "47" },
+      { "nome": "Apiuna", "ddd": "47" },
+      { "nome": "Araquari", "ddd": "47" },
+      { "nome": "Ascurra", "ddd": "47" },
+      { "nome": "Atalanta", "ddd": "47" },
+      { "nome": "Bom Retiro do Sul", "ddd": "47" },
+      { "nome": "Aurora", "ddd": "47" },
+      { "nome": "Balneário Barra do Sul", "ddd": "47" },
+      { "nome": "Balneário Camboriú", "ddd": "47" },
+      { "nome": "Balneário Picarras", "ddd": "47" },
+      { "nome": "Barra Velha", "ddd": "47" },
+      { "nome": "Bela Vista do Toldo", "ddd": "47" },
+      { "nome": "Barra Velha", "ddd": "47" },
+      { "nome": "Benedito Novo", "ddd": "47" },
+      { "nome": "Blumenau", "ddd": "47" },
+      { "nome": "Florianópolis", "ddd": "47" }
+    ]
+  },
+  "SE": {
+    "cidades": [
+      { "nome": "Aracaju", "ddd": "79" },
+      { "nome": "Barra dos Coqueiros", "ddd": "79" },
+      { "nome": "Itabaiana", "ddd": "79" },
+      { "nome": "Nossa Senhora do Socorro", "ddd": "79" },
+      { "nome": "São Cristóvão", "ddd": "79" }
+    ]
+  },
+  "SP": {
+    "cidades": [
+      { "nome": "Arujá", "ddd": "11" },
+      { "nome": "Barueri", "ddd": "11" },
+      { "nome": "Biritiba Mirim", "ddd": "11" },
+      { "nome": "Caieiras", "ddd": "11" },
+      { "nome": "Cajamar", "ddd": "11" },
+      { "nome": "Carapicuíba", "ddd": "11" },
+      { "nome": "Cotia", "ddd": "11" },
+      { "nome": "Diadema", "ddd": "11" },
+      { "nome": "Embu", "ddd": "11" },
+      { "nome": "Embu-Guaçu", "ddd": "11" },
+      { "nome": "Ferraz de Vasconcelos", "ddd": "11" },
+      { "nome": "Francisco Morato", "ddd": "11" },
+      { "nome": "Franco da Rocha", "ddd": "11" },
+      { "nome": "Guarema", "ddd": "11" },
+      { "nome": "Guarulhos", "ddd": "11" },
+      { "nome": "Itapecerica da Serra", "ddd": "11" },
+      { "nome": "Itapevi", "ddd": "11" },
+      { "nome": "Itaquaquecetuba", "ddd": "11" },
+      { "nome": "Jandira", "ddd": "11" },
+      { "nome": "Juquitiba", "ddd": "11" },
+      { "nome": "Mairiporã", "ddd": "11" },
+      { "nome": "Mauá", "ddd": "11" },
+      { "nome": "Mogi das Cruzes", "ddd": "11" },
+      { "nome": "Osasco", "ddd": "11" },
+      { "nome": "Pirapora do Bom Jesus", "ddd": "11" },
+      { "nome": "Poá", "ddd": "11" },
+      { "nome": "Ribeirão Pires", "ddd": "11" },
+      { "nome": "Rio Grande da Serra", "ddd": "11" },
+      { "nome": "São Paulo", "ddd": "11" },
+      { "nome": "Salesópolis", "ddd": "11" },
+      { "nome": "Santa Isabel", "ddd": "11" },
+      { "nome": "Santana do Parnaíba", "ddd": "11" },
+      { "nome": "Santo André", "ddd": "11" },
+      { "nome": "São Bernardo do Campo", "ddd": "11" },
+      { "nome": "São Caetano do Sul", "ddd": "11" },
+      { "nome": "São Lourenço da Serra Suzano", "ddd": "11" },
+      { "nome": "Suzano", "ddd": "11" },
+      { "nome": "Taboão da Serra", "ddd": "11" },
+      { "nome": "Vargem Grande Paulista", "ddd": "11" }
+    ]
+  },
+  "TO": {
+    "cidades": [
+      { "nome": "Aracaju", "ddd": "79" },
+      { "nome": "Barra dos Coqueiros", "ddd": "79" },
+      { "nome": "Itabaiana", "ddd": "79" },
+      { "nome": "Nossa Senhora do Socorro", "ddd": "79" },
+      { "nome": "São Cristovao", "ddd": "79" }
+    ]
+  }
+}
